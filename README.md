@@ -111,7 +111,7 @@ python src/main.py
 
 ### Видео 2 — Свободное движение
 
-![video_2](results/screenshots/video_2.png)
+![video_3](results/screenshots/video_3.png)
 
 - **Количество машин**: небольшое  
 - **Плотность**: низкая  
@@ -121,12 +121,12 @@ python src/main.py
 
 ### Видео 3 — Серьёзная пробка
 
-![video_3](results/screenshots/video_3.png)
+![video_4](results/screenshots/video_4.png)
 
 - **Количество машин**: высокое  
 - **Плотность**: высокая  
 - **Скорость**: практически нулевая  
-- **Оценка трафика**: 9–10 баллов
+- **Оценка трафика**: 7–10 баллов
 
 ---
 
