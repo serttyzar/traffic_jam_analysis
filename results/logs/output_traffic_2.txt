@@ -1,0 +1,1439 @@
+Frame 0: Cars=10, Status=4 points (Congested), Density=0.24, AvgSpeed=5.06, Score=4
+Frame 1: Cars=9, Status=4 points (Congested), Density=0.24, AvgSpeed=6.97, Score=4
+Frame 2: Cars=9, Status=4 points (Congested), Density=0.23, AvgSpeed=6.87, Score=4
+Frame 3: Cars=9, Status=4 points (Congested), Density=0.23, AvgSpeed=6.78, Score=4
+Frame 4: Cars=9, Status=4 points (Congested), Density=0.22, AvgSpeed=6.69, Score=4
+Frame 5: Cars=9, Status=4 points (Congested), Density=0.22, AvgSpeed=6.54, Score=4
+Frame 6: Cars=9, Status=4 points (Congested), Density=0.22, AvgSpeed=6.46, Score=4
+Frame 7: Cars=9, Status=4 points (Congested), Density=0.21, AvgSpeed=6.36, Score=4
+Frame 8: Cars=9, Status=4 points (Congested), Density=0.21, AvgSpeed=6.26, Score=4
+Frame 9: Cars=8, Status=4 points (Congested), Density=0.20, AvgSpeed=6.16, Score=4
+Frame 10: Cars=8, Status=4 points (Congested), Density=0.20, AvgSpeed=6.07, Score=4
+Frame 11: Cars=8, Status=4 points (Congested), Density=0.19, AvgSpeed=5.96, Score=4
+Frame 12: Cars=8, Status=4 points (Congested), Density=0.19, AvgSpeed=5.85, Score=4
+Frame 13: Cars=8, Status=5 points (Congested), Density=0.19, AvgSpeed=5.76, Score=5
+Frame 14: Cars=8, Status=5 points (Congested), Density=0.18, AvgSpeed=5.64, Score=5
+Frame 15: Cars=8, Status=5 points (Congested), Density=0.18, AvgSpeed=5.54, Score=5
+Frame 16: Cars=7, Status=5 points (Congested), Density=0.18, AvgSpeed=5.45, Score=5
+Frame 17: Cars=7, Status=5 points (Congested), Density=0.17, AvgSpeed=5.41, Score=5
+Frame 18: Cars=7, Status=5 points (Congested), Density=0.17, AvgSpeed=5.34, Score=5
+Frame 19: Cars=7, Status=5 points (Congested), Density=0.16, AvgSpeed=5.27, Score=5
+Frame 20: Cars=7, Status=5 points (Congested), Density=0.16, AvgSpeed=5.19, Score=5
+Frame 21: Cars=7, Status=5 points (Congested), Density=0.15, AvgSpeed=5.12, Score=5
+Frame 22: Cars=6, Status=5 points (Congested), Density=0.15, AvgSpeed=5.04, Score=5
+Frame 23: Cars=6, Status=5 points (Congested), Density=0.15, AvgSpeed=4.93, Score=5
+Frame 24: Cars=6, Status=5 points (Congested), Density=0.14, AvgSpeed=4.86, Score=5
+Frame 25: Cars=6, Status=5 points (Congested), Density=0.14, AvgSpeed=4.82, Score=5
+Frame 26: Cars=6, Status=5 points (Congested), Density=0.14, AvgSpeed=4.78, Score=5
+Frame 27: Cars=6, Status=5 points (Congested), Density=0.13, AvgSpeed=4.73, Score=5
+Frame 28: Cars=6, Status=5 points (Congested), Density=0.13, AvgSpeed=4.67, Score=5
+Frame 29: Cars=6, Status=5 points (Congested), Density=0.12, AvgSpeed=4.58, Score=5
+Frame 30: Cars=6, Status=5 points (Congested), Density=0.12, AvgSpeed=4.51, Score=5
+Frame 31: Cars=6, Status=5 points (Congested), Density=0.12, AvgSpeed=4.45, Score=5
+Frame 32: Cars=6, Status=5 points (Congested), Density=0.11, AvgSpeed=4.39, Score=5
+Frame 33: Cars=6, Status=5 points (Congested), Density=0.11, AvgSpeed=4.32, Score=5
+Frame 34: Cars=6, Status=5 points (Congested), Density=0.11, AvgSpeed=4.26, Score=5
+Frame 35: Cars=6, Status=5 points (Congested), Density=0.10, AvgSpeed=4.18, Score=5
+Frame 36: Cars=6, Status=5 points (Congested), Density=0.10, AvgSpeed=4.10, Score=5
+Frame 37: Cars=6, Status=5 points (Congested), Density=0.09, AvgSpeed=4.04, Score=5
+Frame 38: Cars=6, Status=5 points (Congested), Density=0.09, AvgSpeed=3.94, Score=5
+Frame 39: Cars=6, Status=5 points (Congested), Density=0.09, AvgSpeed=3.85, Score=5
+Frame 40: Cars=6, Status=5 points (Congested), Density=0.08, AvgSpeed=3.78, Score=5
+Frame 41: Cars=6, Status=5 points (Congested), Density=0.08, AvgSpeed=3.73, Score=5
+Frame 42: Cars=6, Status=5 points (Congested), Density=0.08, AvgSpeed=3.67, Score=5
+Frame 43: Cars=6, Status=5 points (Congested), Density=0.07, AvgSpeed=3.62, Score=5
+Frame 44: Cars=6, Status=5 points (Congested), Density=0.07, AvgSpeed=3.54, Score=5
+Frame 45: Cars=5, Status=5 points (Congested), Density=0.07, AvgSpeed=3.47, Score=5
+Frame 46: Cars=5, Status=5 points (Congested), Density=0.06, AvgSpeed=3.42, Score=5
+Frame 47: Cars=5, Status=5 points (Congested), Density=0.06, AvgSpeed=3.34, Score=5
+Frame 48: Cars=5, Status=5 points (Congested), Density=0.05, AvgSpeed=3.29, Score=5
+Frame 49: Cars=5, Status=5 points (Congested), Density=0.05, AvgSpeed=3.22, Score=5
+Frame 50: Cars=6, Status=5 points (Congested), Density=0.05, AvgSpeed=3.25, Score=5
+Frame 51: Cars=6, Status=5 points (Congested), Density=0.05, AvgSpeed=1.28, Score=5
+Frame 52: Cars=6, Status=5 points (Congested), Density=0.05, AvgSpeed=1.32, Score=5
+Frame 53: Cars=6, Status=5 points (Congested), Density=0.06, AvgSpeed=1.35, Score=5
+Frame 54: Cars=6, Status=5 points (Congested), Density=0.06, AvgSpeed=1.37, Score=5
+Frame 55: Cars=6, Status=5 points (Congested), Density=0.06, AvgSpeed=1.37, Score=5
+Frame 56: Cars=7, Status=5 points (Congested), Density=0.06, AvgSpeed=1.39, Score=5
+Frame 57: Cars=7, Status=5 points (Congested), Density=0.06, AvgSpeed=1.41, Score=5
+Frame 58: Cars=7, Status=5 points (Congested), Density=0.07, AvgSpeed=1.44, Score=5
+Frame 59: Cars=7, Status=5 points (Congested), Density=0.07, AvgSpeed=1.50, Score=5
+Frame 60: Cars=7, Status=5 points (Congested), Density=0.07, AvgSpeed=1.53, Score=5
+Frame 61: Cars=7, Status=5 points (Congested), Density=0.07, AvgSpeed=1.57, Score=5
+Frame 62: Cars=7, Status=5 points (Congested), Density=0.07, AvgSpeed=1.60, Score=5
+Frame 63: Cars=8, Status=5 points (Congested), Density=0.07, AvgSpeed=1.65, Score=5
+Frame 64: Cars=8, Status=5 points (Congested), Density=0.08, AvgSpeed=1.70, Score=5
+Frame 65: Cars=8, Status=5 points (Congested), Density=0.08, AvgSpeed=1.74, Score=5
+Frame 66: Cars=8, Status=5 points (Congested), Density=0.08, AvgSpeed=1.76, Score=5
+Frame 67: Cars=8, Status=5 points (Congested), Density=0.08, AvgSpeed=1.71, Score=5
+Frame 68: Cars=8, Status=5 points (Congested), Density=0.08, AvgSpeed=1.72, Score=5
+Frame 69: Cars=9, Status=5 points (Congested), Density=0.09, AvgSpeed=1.72, Score=5
+Frame 70: Cars=9, Status=5 points (Congested), Density=0.09, AvgSpeed=1.74, Score=5
+Frame 71: Cars=9, Status=5 points (Congested), Density=0.09, AvgSpeed=1.77, Score=5
+Frame 72: Cars=9, Status=5 points (Congested), Density=0.09, AvgSpeed=1.80, Score=5
+Frame 73: Cars=9, Status=5 points (Congested), Density=0.09, AvgSpeed=1.83, Score=5
+Frame 74: Cars=9, Status=5 points (Congested), Density=0.09, AvgSpeed=1.85, Score=5
+Frame 75: Cars=9, Status=5 points (Congested), Density=0.09, AvgSpeed=1.83, Score=5
+Frame 76: Cars=9, Status=5 points (Congested), Density=0.09, AvgSpeed=1.80, Score=5
+Frame 77: Cars=9, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 78: Cars=9, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 79: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.80, Score=5
+Frame 80: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.79, Score=5
+Frame 81: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.77, Score=5
+Frame 82: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.75, Score=5
+Frame 83: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.74, Score=5
+Frame 84: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.72, Score=5
+Frame 85: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.71, Score=5
+Frame 86: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.70, Score=5
+Frame 87: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.69, Score=5
+Frame 88: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.69, Score=5
+Frame 89: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.69, Score=5
+Frame 90: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.68, Score=5
+Frame 91: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.65, Score=5
+Frame 92: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 93: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.62, Score=5
+Frame 94: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.61, Score=5
+Frame 95: Cars=9, Status=5 points (Congested), Density=0.08, AvgSpeed=1.61, Score=5
+Frame 96: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.61, Score=5
+Frame 97: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.61, Score=5
+Frame 98: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.60, Score=5
+Frame 99: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.61, Score=5
+Frame 100: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.61, Score=5
+Frame 101: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.60, Score=5
+Frame 102: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.59, Score=5
+Frame 103: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.60, Score=5
+Frame 104: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.61, Score=5
+Frame 105: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.61, Score=5
+Frame 106: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.61, Score=5
+Frame 107: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.60, Score=5
+Frame 108: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.60, Score=5
+Frame 109: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.58, Score=5
+Frame 110: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.58, Score=5
+Frame 111: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.57, Score=5
+Frame 112: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.57, Score=5
+Frame 113: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.53, Score=5
+Frame 114: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.51, Score=5
+Frame 115: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.50, Score=5
+Frame 116: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.50, Score=5
+Frame 117: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.50, Score=5
+Frame 118: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.49, Score=5
+Frame 119: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.49, Score=5
+Frame 120: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.48, Score=5
+Frame 121: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.47, Score=5
+Frame 122: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.45, Score=5
+Frame 123: Cars=9, Status=5 points (Congested), Density=0.07, AvgSpeed=1.44, Score=5
+Frame 124: Cars=10, Status=5 points (Congested), Density=0.07, AvgSpeed=1.42, Score=5
+Frame 125: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.41, Score=5
+Frame 126: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.39, Score=5
+Frame 127: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.36, Score=5
+Frame 128: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.35, Score=5
+Frame 129: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.35, Score=5
+Frame 130: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.35, Score=5
+Frame 131: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.35, Score=5
+Frame 132: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.35, Score=5
+Frame 133: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.35, Score=5
+Frame 134: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.36, Score=5
+Frame 135: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.36, Score=5
+Frame 136: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.36, Score=5
+Frame 137: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.35, Score=5
+Frame 138: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.38, Score=5
+Frame 139: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.41, Score=5
+Frame 140: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.41, Score=5
+Frame 141: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.40, Score=5
+Frame 142: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.40, Score=5
+Frame 143: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.41, Score=5
+Frame 144: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.42, Score=5
+Frame 145: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.42, Score=5
+Frame 146: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.41, Score=5
+Frame 147: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.40, Score=5
+Frame 148: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.38, Score=5
+Frame 149: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.37, Score=5
+Frame 150: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.38, Score=5
+Frame 151: Cars=10, Status=5 points (Congested), Density=0.08, AvgSpeed=1.41, Score=5
+Frame 152: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.39, Score=5
+Frame 153: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.36, Score=5
+Frame 154: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.34, Score=5
+Frame 155: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.33, Score=5
+Frame 156: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.32, Score=5
+Frame 157: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.32, Score=5
+Frame 158: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.30, Score=5
+Frame 159: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.29, Score=5
+Frame 160: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.29, Score=5
+Frame 161: Cars=10, Status=5 points (Congested), Density=0.07, AvgSpeed=1.27, Score=5
+Frame 162: Cars=10, Status=5 points (Congested), Density=0.07, AvgSpeed=1.25, Score=5
+Frame 163: Cars=10, Status=5 points (Congested), Density=0.07, AvgSpeed=1.25, Score=5
+Frame 164: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.23, Score=5
+Frame 165: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.23, Score=5
+Frame 166: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.23, Score=5
+Frame 167: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.23, Score=5
+Frame 168: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.23, Score=5
+Frame 169: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.22, Score=5
+Frame 170: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.21, Score=5
+Frame 171: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.21, Score=5
+Frame 172: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.20, Score=5
+Frame 173: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.20, Score=5
+Frame 174: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.19, Score=5
+Frame 175: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.19, Score=5
+Frame 176: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.18, Score=5
+Frame 177: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.19, Score=5
+Frame 178: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.19, Score=5
+Frame 179: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.18, Score=5
+Frame 180: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.18, Score=5
+Frame 181: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.18, Score=5
+Frame 182: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.18, Score=5
+Frame 183: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.18, Score=5
+Frame 184: Cars=11, Status=5 points (Congested), Density=0.07, AvgSpeed=1.18, Score=5
+Frame 185: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.17, Score=5
+Frame 186: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.17, Score=5
+Frame 187: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.17, Score=5
+Frame 188: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.16, Score=5
+Frame 189: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.16, Score=5
+Frame 190: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.16, Score=5
+Frame 191: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.15, Score=5
+Frame 192: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.15, Score=5
+Frame 193: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.14, Score=5
+Frame 194: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.13, Score=5
+Frame 195: Cars=11, Status=5 points (Congested), Density=0.08, AvgSpeed=1.13, Score=5
+Frame 196: Cars=11, Status=5 points (Congested), Density=0.09, AvgSpeed=1.12, Score=5
+Frame 197: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.11, Score=5
+Frame 198: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.11, Score=5
+Frame 199: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.10, Score=5
+Frame 200: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.08, Score=5
+Frame 201: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.07, Score=5
+Frame 202: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.08, Score=5
+Frame 203: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.10, Score=5
+Frame 204: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.10, Score=5
+Frame 205: Cars=12, Status=5 points (Congested), Density=0.10, AvgSpeed=1.10, Score=5
+Frame 206: Cars=12, Status=5 points (Congested), Density=0.10, AvgSpeed=1.10, Score=5
+Frame 207: Cars=12, Status=5 points (Congested), Density=0.10, AvgSpeed=1.12, Score=5
+Frame 208: Cars=12, Status=5 points (Congested), Density=0.10, AvgSpeed=1.13, Score=5
+Frame 209: Cars=12, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.13, Score=6
+Frame 210: Cars=12, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.13, Score=6
+Frame 211: Cars=12, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.13, Score=6
+Frame 212: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=1.14, Score=6
+Frame 213: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=1.16, Score=6
+Frame 214: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=1.15, Score=6
+Frame 215: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=1.13, Score=6
+Frame 216: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=1.12, Score=6
+Frame 217: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=1.12, Score=6
+Frame 218: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.12, Score=6
+Frame 219: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.12, Score=6
+Frame 220: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.11, Score=6
+Frame 221: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.10, Score=6
+Frame 222: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.09, Score=6
+Frame 223: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.10, Score=6
+Frame 224: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.09, Score=6
+Frame 225: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.09, Score=6
+Frame 226: Cars=13, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.08, Score=6
+Frame 227: Cars=13, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.06, Score=6
+Frame 228: Cars=13, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.04, Score=6
+Frame 229: Cars=13, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.04, Score=6
+Frame 230: Cars=13, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.04, Score=6
+Frame 231: Cars=13, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.04, Score=6
+Frame 232: Cars=13, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.02, Score=6
+Frame 233: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.01, Score=6
+Frame 234: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.00, Score=6
+Frame 235: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.00, Score=6
+Frame 236: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.00, Score=6
+Frame 237: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.99, Score=6
+Frame 238: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.98, Score=6
+Frame 239: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.96, Score=6
+Frame 240: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.95, Score=6
+Frame 241: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.95, Score=6
+Frame 242: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.94, Score=6
+Frame 243: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.00, Score=6
+Frame 244: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.99, Score=6
+Frame 245: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.99, Score=6
+Frame 246: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.97, Score=6
+Frame 247: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.99, Score=6
+Frame 248: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.99, Score=6
+Frame 249: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.00, Score=6
+Frame 250: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=1.01, Score=6
+Frame 251: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.99, Score=6
+Frame 252: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.98, Score=6
+Frame 253: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.97, Score=6
+Frame 254: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.97, Score=6
+Frame 255: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.96, Score=6
+Frame 256: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.96, Score=6
+Frame 257: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.95, Score=6
+Frame 258: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.94, Score=6
+Frame 259: Cars=12, Status=6 points (Heavy Traffic), Density=0.12, AvgSpeed=0.94, Score=6
+Frame 260: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=0.94, Score=6
+Frame 261: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=0.94, Score=6
+Frame 262: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=0.93, Score=6
+Frame 263: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=0.95, Score=6
+Frame 264: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=0.96, Score=6
+Frame 265: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=0.98, Score=6
+Frame 266: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=1.01, Score=6
+Frame 267: Cars=12, Status=6 points (Heavy Traffic), Density=0.11, AvgSpeed=1.00, Score=6
+Frame 268: Cars=12, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=0.99, Score=6
+Frame 269: Cars=12, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.01, Score=6
+Frame 270: Cars=12, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.02, Score=6
+Frame 271: Cars=12, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.03, Score=6
+Frame 272: Cars=12, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.03, Score=6
+Frame 273: Cars=12, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.03, Score=6
+Frame 274: Cars=12, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.04, Score=6
+Frame 275: Cars=12, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.06, Score=6
+Frame 276: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.06, Score=6
+Frame 277: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.07, Score=6
+Frame 278: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.07, Score=6
+Frame 279: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.08, Score=6
+Frame 280: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.08, Score=6
+Frame 281: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.07, Score=6
+Frame 282: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.07, Score=6
+Frame 283: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.06, Score=6
+Frame 284: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.06, Score=6
+Frame 285: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.06, Score=6
+Frame 286: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.06, Score=6
+Frame 287: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.06, Score=6
+Frame 288: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.06, Score=6
+Frame 289: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.06, Score=6
+Frame 290: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.06, Score=6
+Frame 291: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.06, Score=6
+Frame 292: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.07, Score=6
+Frame 293: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.00, Score=6
+Frame 294: Cars=13, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.00, Score=6
+Frame 295: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 296: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 297: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 298: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.97, Score=6
+Frame 299: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.96, Score=6
+Frame 300: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.95, Score=6
+Frame 301: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.95, Score=6
+Frame 302: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.95, Score=6
+Frame 303: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.96, Score=6
+Frame 304: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.96, Score=6
+Frame 305: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.97, Score=6
+Frame 306: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.97, Score=6
+Frame 307: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.96, Score=6
+Frame 308: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.95, Score=6
+Frame 309: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.95, Score=6
+Frame 310: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.96, Score=6
+Frame 311: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.96, Score=6
+Frame 312: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.96, Score=6
+Frame 313: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.92, Score=6
+Frame 314: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.92, Score=6
+Frame 315: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.92, Score=6
+Frame 316: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.89, Score=6
+Frame 317: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.90, Score=6
+Frame 318: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.92, Score=6
+Frame 319: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.91, Score=6
+Frame 320: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.90, Score=6
+Frame 321: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.92, Score=6
+Frame 322: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.92, Score=6
+Frame 323: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.92, Score=6
+Frame 324: Cars=13, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.92, Score=6
+Frame 325: Cars=13, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.92, Score=6
+Frame 326: Cars=12, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.92, Score=6
+Frame 327: Cars=12, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 328: Cars=12, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.98, Score=6
+Frame 329: Cars=12, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.96, Score=6
+Frame 330: Cars=12, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.95, Score=6
+Frame 331: Cars=12, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 332: Cars=12, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 333: Cars=12, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 334: Cars=12, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 335: Cars=12, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 336: Cars=12, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 337: Cars=12, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 338: Cars=12, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.93, Score=6
+Frame 339: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.93, Score=6
+Frame 340: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.93, Score=6
+Frame 341: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.93, Score=6
+Frame 342: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.92, Score=6
+Frame 343: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.92, Score=6
+Frame 344: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.92, Score=6
+Frame 345: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.92, Score=6
+Frame 346: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.91, Score=6
+Frame 347: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.90, Score=6
+Frame 348: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.90, Score=6
+Frame 349: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.90, Score=6
+Frame 350: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.89, Score=6
+Frame 351: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.88, Score=6
+Frame 352: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.87, Score=6
+Frame 353: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.87, Score=6
+Frame 354: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.86, Score=6
+Frame 355: Cars=11, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.84, Score=6
+Frame 356: Cars=11, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.84, Score=6
+Frame 357: Cars=11, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.84, Score=6
+Frame 358: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.83, Score=6
+Frame 359: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.82, Score=6
+Frame 360: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.81, Score=6
+Frame 361: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.81, Score=6
+Frame 362: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.80, Score=6
+Frame 363: Cars=10, Status=5 points (Congested), Density=0.06, AvgSpeed=0.80, Score=5
+Frame 364: Cars=10, Status=5 points (Congested), Density=0.06, AvgSpeed=0.79, Score=5
+Frame 365: Cars=10, Status=5 points (Congested), Density=0.06, AvgSpeed=0.78, Score=5
+Frame 366: Cars=10, Status=5 points (Congested), Density=0.06, AvgSpeed=0.77, Score=5
+Frame 367: Cars=10, Status=5 points (Congested), Density=0.06, AvgSpeed=0.76, Score=5
+Frame 368: Cars=10, Status=5 points (Congested), Density=0.06, AvgSpeed=0.75, Score=5
+Frame 369: Cars=10, Status=5 points (Congested), Density=0.06, AvgSpeed=0.74, Score=5
+Frame 370: Cars=10, Status=5 points (Congested), Density=0.06, AvgSpeed=0.73, Score=5
+Frame 371: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.71, Score=6
+Frame 372: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.70, Score=6
+Frame 373: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.69, Score=6
+Frame 374: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.68, Score=6
+Frame 375: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.67, Score=6
+Frame 376: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.67, Score=6
+Frame 377: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.66, Score=6
+Frame 378: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.59, Score=6
+Frame 379: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.58, Score=6
+Frame 380: Cars=10, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=0.58, Score=6
+Frame 381: Cars=10, Status=5 points (Congested), Density=0.06, AvgSpeed=0.57, Score=5
+Frame 382: Cars=10, Status=5 points (Congested), Density=0.06, AvgSpeed=0.57, Score=5
+Frame 383: Cars=9, Status=5 points (Congested), Density=0.06, AvgSpeed=0.55, Score=5
+Frame 384: Cars=9, Status=5 points (Congested), Density=0.06, AvgSpeed=0.54, Score=5
+Frame 385: Cars=9, Status=5 points (Congested), Density=0.06, AvgSpeed=0.53, Score=5
+Frame 386: Cars=9, Status=5 points (Congested), Density=0.05, AvgSpeed=0.51, Score=5
+Frame 387: Cars=9, Status=5 points (Congested), Density=0.05, AvgSpeed=0.50, Score=5
+Frame 388: Cars=8, Status=5 points (Congested), Density=0.05, AvgSpeed=0.49, Score=5
+Frame 389: Cars=8, Status=5 points (Congested), Density=0.05, AvgSpeed=0.47, Score=5
+Frame 390: Cars=8, Status=5 points (Congested), Density=0.05, AvgSpeed=0.46, Score=5
+Frame 391: Cars=8, Status=5 points (Congested), Density=0.05, AvgSpeed=0.45, Score=5
+Frame 392: Cars=7, Status=5 points (Congested), Density=0.05, AvgSpeed=0.43, Score=5
+Frame 393: Cars=7, Status=5 points (Congested), Density=0.05, AvgSpeed=0.42, Score=5
+Frame 394: Cars=7, Status=5 points (Congested), Density=0.05, AvgSpeed=0.41, Score=5
+Frame 395: Cars=7, Status=5 points (Congested), Density=0.04, AvgSpeed=0.40, Score=5
+Frame 396: Cars=7, Status=5 points (Congested), Density=0.04, AvgSpeed=0.39, Score=5
+Frame 397: Cars=6, Status=5 points (Congested), Density=0.04, AvgSpeed=0.38, Score=5
+Frame 398: Cars=6, Status=5 points (Congested), Density=0.04, AvgSpeed=0.36, Score=5
+Frame 399: Cars=6, Status=5 points (Congested), Density=0.04, AvgSpeed=0.35, Score=5
+Frame 400: Cars=6, Status=5 points (Congested), Density=0.04, AvgSpeed=0.34, Score=5
+Frame 401: Cars=6, Status=5 points (Congested), Density=0.04, AvgSpeed=0.38, Score=5
+Frame 402: Cars=5, Status=5 points (Congested), Density=0.04, AvgSpeed=0.40, Score=5
+Frame 403: Cars=5, Status=5 points (Congested), Density=0.04, AvgSpeed=0.44, Score=5
+Frame 404: Cars=5, Status=4 points (Congested), Density=0.04, AvgSpeed=0.48, Score=4
+Frame 405: Cars=5, Status=4 points (Congested), Density=0.04, AvgSpeed=0.56, Score=4
+Frame 406: Cars=5, Status=4 points (Congested), Density=0.04, AvgSpeed=0.60, Score=4
+Frame 407: Cars=5, Status=4 points (Congested), Density=0.03, AvgSpeed=0.63, Score=4
+Frame 408: Cars=4, Status=4 points (Congested), Density=0.03, AvgSpeed=0.65, Score=4
+Frame 409: Cars=4, Status=4 points (Congested), Density=0.03, AvgSpeed=0.70, Score=4
+Frame 410: Cars=4, Status=4 points (Congested), Density=0.03, AvgSpeed=0.73, Score=4
+Frame 411: Cars=4, Status=4 points (Congested), Density=0.03, AvgSpeed=0.76, Score=4
+Frame 412: Cars=4, Status=4 points (Congested), Density=0.03, AvgSpeed=0.81, Score=4
+Frame 413: Cars=4, Status=4 points (Congested), Density=0.03, AvgSpeed=0.85, Score=4
+Frame 414: Cars=4, Status=4 points (Congested), Density=0.03, AvgSpeed=0.92, Score=4
+Frame 415: Cars=3, Status=4 points (Congested), Density=0.03, AvgSpeed=0.96, Score=4
+Frame 416: Cars=3, Status=4 points (Congested), Density=0.03, AvgSpeed=1.00, Score=4
+Frame 417: Cars=3, Status=4 points (Congested), Density=0.03, AvgSpeed=1.04, Score=4
+Frame 418: Cars=3, Status=4 points (Congested), Density=0.03, AvgSpeed=1.08, Score=4
+Frame 419: Cars=3, Status=4 points (Congested), Density=0.03, AvgSpeed=1.13, Score=4
+Frame 420: Cars=3, Status=4 points (Congested), Density=0.03, AvgSpeed=1.19, Score=4
+Frame 421: Cars=3, Status=4 points (Congested), Density=0.02, AvgSpeed=1.22, Score=4
+Frame 422: Cars=3, Status=4 points (Congested), Density=0.02, AvgSpeed=1.27, Score=4
+Frame 423: Cars=3, Status=4 points (Congested), Density=0.02, AvgSpeed=1.31, Score=4
+Frame 424: Cars=2, Status=4 points (Congested), Density=0.02, AvgSpeed=1.35, Score=4
+Frame 425: Cars=2, Status=4 points (Congested), Density=0.02, AvgSpeed=1.39, Score=4
+Frame 426: Cars=2, Status=3 points (Congested), Density=0.02, AvgSpeed=1.41, Score=3
+Frame 427: Cars=2, Status=3 points (Congested), Density=0.02, AvgSpeed=1.40, Score=3
+Frame 428: Cars=3, Status=4 points (Congested), Density=0.02, AvgSpeed=1.41, Score=4
+Frame 429: Cars=3, Status=4 points (Congested), Density=0.02, AvgSpeed=1.44, Score=4
+Frame 430: Cars=3, Status=4 points (Congested), Density=0.02, AvgSpeed=1.49, Score=4
+Frame 431: Cars=3, Status=4 points (Congested), Density=0.03, AvgSpeed=1.54, Score=4
+Frame 432: Cars=4, Status=4 points (Congested), Density=0.03, AvgSpeed=1.59, Score=4
+Frame 433: Cars=4, Status=4 points (Congested), Density=0.03, AvgSpeed=1.62, Score=4
+Frame 434: Cars=4, Status=4 points (Congested), Density=0.03, AvgSpeed=1.66, Score=4
+Frame 435: Cars=4, Status=4 points (Congested), Density=0.03, AvgSpeed=1.70, Score=4
+Frame 436: Cars=5, Status=4 points (Congested), Density=0.03, AvgSpeed=1.75, Score=4
+Frame 437: Cars=5, Status=4 points (Congested), Density=0.03, AvgSpeed=1.79, Score=4
+Frame 438: Cars=5, Status=4 points (Congested), Density=0.03, AvgSpeed=1.82, Score=4
+Frame 439: Cars=6, Status=4 points (Congested), Density=0.04, AvgSpeed=1.86, Score=4
+Frame 440: Cars=6, Status=4 points (Congested), Density=0.04, AvgSpeed=1.90, Score=4
+Frame 441: Cars=6, Status=4 points (Congested), Density=0.04, AvgSpeed=1.93, Score=4
+Frame 442: Cars=6, Status=4 points (Congested), Density=0.04, AvgSpeed=1.98, Score=4
+Frame 443: Cars=7, Status=4 points (Congested), Density=0.04, AvgSpeed=2.01, Score=4
+Frame 444: Cars=7, Status=4 points (Congested), Density=0.04, AvgSpeed=2.06, Score=4
+Frame 445: Cars=7, Status=4 points (Congested), Density=0.04, AvgSpeed=2.09, Score=4
+Frame 446: Cars=8, Status=4 points (Congested), Density=0.05, AvgSpeed=2.12, Score=4
+Frame 447: Cars=8, Status=4 points (Congested), Density=0.05, AvgSpeed=2.16, Score=4
+Frame 448: Cars=8, Status=4 points (Congested), Density=0.05, AvgSpeed=2.21, Score=4
+Frame 449: Cars=8, Status=4 points (Congested), Density=0.05, AvgSpeed=2.25, Score=4
+Frame 450: Cars=9, Status=4 points (Congested), Density=0.05, AvgSpeed=2.31, Score=4
+Frame 451: Cars=9, Status=4 points (Congested), Density=0.05, AvgSpeed=2.30, Score=4
+Frame 452: Cars=9, Status=4 points (Congested), Density=0.05, AvgSpeed=2.30, Score=4
+Frame 453: Cars=9, Status=4 points (Congested), Density=0.05, AvgSpeed=2.29, Score=4
+Frame 454: Cars=9, Status=4 points (Congested), Density=0.05, AvgSpeed=2.29, Score=4
+Frame 455: Cars=10, Status=4 points (Congested), Density=0.05, AvgSpeed=2.25, Score=4
+Frame 456: Cars=10, Status=4 points (Congested), Density=0.05, AvgSpeed=2.24, Score=4
+Frame 457: Cars=10, Status=4 points (Congested), Density=0.06, AvgSpeed=2.23, Score=4
+Frame 458: Cars=10, Status=4 points (Congested), Density=0.06, AvgSpeed=2.24, Score=4
+Frame 459: Cars=10, Status=4 points (Congested), Density=0.06, AvgSpeed=2.22, Score=4
+Frame 460: Cars=11, Status=5 points (Congested), Density=0.06, AvgSpeed=2.23, Score=5
+Frame 461: Cars=11, Status=5 points (Congested), Density=0.06, AvgSpeed=2.24, Score=5
+Frame 462: Cars=11, Status=5 points (Congested), Density=0.06, AvgSpeed=2.22, Score=5
+Frame 463: Cars=11, Status=5 points (Congested), Density=0.06, AvgSpeed=2.21, Score=5
+Frame 464: Cars=11, Status=5 points (Congested), Density=0.06, AvgSpeed=2.16, Score=5
+Frame 465: Cars=12, Status=5 points (Congested), Density=0.06, AvgSpeed=2.15, Score=5
+Frame 466: Cars=12, Status=5 points (Congested), Density=0.06, AvgSpeed=2.12, Score=5
+Frame 467: Cars=12, Status=5 points (Congested), Density=0.06, AvgSpeed=2.07, Score=5
+Frame 468: Cars=12, Status=5 points (Congested), Density=0.06, AvgSpeed=2.03, Score=5
+Frame 469: Cars=12, Status=5 points (Congested), Density=0.06, AvgSpeed=2.01, Score=5
+Frame 470: Cars=12, Status=5 points (Congested), Density=0.06, AvgSpeed=1.98, Score=5
+Frame 471: Cars=12, Status=5 points (Congested), Density=0.06, AvgSpeed=1.98, Score=5
+Frame 472: Cars=12, Status=5 points (Congested), Density=0.07, AvgSpeed=1.97, Score=5
+Frame 473: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.97, Score=5
+Frame 474: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.96, Score=5
+Frame 475: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.95, Score=5
+Frame 476: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.96, Score=5
+Frame 477: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.01, Score=5
+Frame 478: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.06, Score=5
+Frame 479: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.10, Score=5
+Frame 480: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.11, Score=5
+Frame 481: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.12, Score=5
+Frame 482: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.11, Score=5
+Frame 483: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.11, Score=5
+Frame 484: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.16, Score=5
+Frame 485: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.16, Score=5
+Frame 486: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.16, Score=5
+Frame 487: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.16, Score=5
+Frame 488: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.16, Score=5
+Frame 489: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.16, Score=5
+Frame 490: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.17, Score=5
+Frame 491: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.18, Score=5
+Frame 492: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.17, Score=5
+Frame 493: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.17, Score=5
+Frame 494: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.16, Score=5
+Frame 495: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.20, Score=5
+Frame 496: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=2.21, Score=5
+Frame 497: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.25, Score=5
+Frame 498: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.23, Score=5
+Frame 499: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.23, Score=5
+Frame 500: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.21, Score=5
+Frame 501: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.21, Score=5
+Frame 502: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.22, Score=5
+Frame 503: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.22, Score=5
+Frame 504: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.20, Score=5
+Frame 505: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.15, Score=5
+Frame 506: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.12, Score=5
+Frame 507: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.12, Score=5
+Frame 508: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.11, Score=5
+Frame 509: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.12, Score=5
+Frame 510: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.10, Score=5
+Frame 511: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.09, Score=5
+Frame 512: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.09, Score=5
+Frame 513: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.08, Score=5
+Frame 514: Cars=13, Status=5 points (Congested), Density=0.08, AvgSpeed=2.09, Score=5
+Frame 515: Cars=13, Status=5 points (Congested), Density=0.09, AvgSpeed=2.10, Score=5
+Frame 516: Cars=13, Status=5 points (Congested), Density=0.09, AvgSpeed=2.12, Score=5
+Frame 517: Cars=13, Status=5 points (Congested), Density=0.09, AvgSpeed=2.16, Score=5
+Frame 518: Cars=13, Status=5 points (Congested), Density=0.09, AvgSpeed=2.18, Score=5
+Frame 519: Cars=13, Status=5 points (Congested), Density=0.09, AvgSpeed=2.19, Score=5
+Frame 520: Cars=13, Status=5 points (Congested), Density=0.09, AvgSpeed=2.19, Score=5
+Frame 521: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.19, Score=5
+Frame 522: Cars=13, Status=5 points (Congested), Density=0.09, AvgSpeed=2.18, Score=5
+Frame 523: Cars=13, Status=5 points (Congested), Density=0.09, AvgSpeed=2.17, Score=5
+Frame 524: Cars=13, Status=5 points (Congested), Density=0.09, AvgSpeed=2.17, Score=5
+Frame 525: Cars=13, Status=5 points (Congested), Density=0.09, AvgSpeed=2.16, Score=5
+Frame 526: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.16, Score=5
+Frame 527: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.15, Score=5
+Frame 528: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.13, Score=5
+Frame 529: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.11, Score=5
+Frame 530: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.09, Score=5
+Frame 531: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.07, Score=5
+Frame 532: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.10, Score=5
+Frame 533: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.10, Score=5
+Frame 534: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.06, Score=5
+Frame 535: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.04, Score=5
+Frame 536: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.03, Score=5
+Frame 537: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.03, Score=5
+Frame 538: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.03, Score=5
+Frame 539: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.03, Score=5
+Frame 540: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.02, Score=5
+Frame 541: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.01, Score=5
+Frame 542: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.01, Score=5
+Frame 543: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=2.01, Score=5
+Frame 544: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.99, Score=5
+Frame 545: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.92, Score=5
+Frame 546: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.90, Score=5
+Frame 547: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.86, Score=5
+Frame 548: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.86, Score=5
+Frame 549: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.87, Score=5
+Frame 550: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.87, Score=5
+Frame 551: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.86, Score=5
+Frame 552: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.85, Score=5
+Frame 553: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.84, Score=5
+Frame 554: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.85, Score=5
+Frame 555: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.88, Score=5
+Frame 556: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.91, Score=5
+Frame 557: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.92, Score=5
+Frame 558: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.92, Score=5
+Frame 559: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.91, Score=5
+Frame 560: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.91, Score=5
+Frame 561: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.91, Score=5
+Frame 562: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.91, Score=5
+Frame 563: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.91, Score=5
+Frame 564: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.90, Score=5
+Frame 565: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.89, Score=5
+Frame 566: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.88, Score=5
+Frame 567: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.87, Score=5
+Frame 568: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.87, Score=5
+Frame 569: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.86, Score=5
+Frame 570: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.85, Score=5
+Frame 571: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.83, Score=5
+Frame 572: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 573: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 574: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 575: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.81, Score=5
+Frame 576: Cars=12, Status=5 points (Congested), Density=0.09, AvgSpeed=1.79, Score=5
+Frame 577: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.78, Score=5
+Frame 578: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.77, Score=5
+Frame 579: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.76, Score=5
+Frame 580: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.76, Score=5
+Frame 581: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.76, Score=5
+Frame 582: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.71, Score=5
+Frame 583: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.67, Score=5
+Frame 584: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.64, Score=5
+Frame 585: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 586: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 587: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.66, Score=5
+Frame 588: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.64, Score=5
+Frame 589: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 590: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 591: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 592: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.62, Score=5
+Frame 593: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.62, Score=5
+Frame 594: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 595: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.65, Score=5
+Frame 596: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.65, Score=5
+Frame 597: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.65, Score=5
+Frame 598: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 599: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 600: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.62, Score=5
+Frame 601: Cars=12, Status=5 points (Congested), Density=0.08, AvgSpeed=1.61, Score=5
+Frame 602: Cars=12, Status=5 points (Congested), Density=0.07, AvgSpeed=1.60, Score=5
+Frame 603: Cars=12, Status=5 points (Congested), Density=0.07, AvgSpeed=1.60, Score=5
+Frame 604: Cars=12, Status=5 points (Congested), Density=0.07, AvgSpeed=1.60, Score=5
+Frame 605: Cars=12, Status=5 points (Congested), Density=0.07, AvgSpeed=1.59, Score=5
+Frame 606: Cars=12, Status=5 points (Congested), Density=0.07, AvgSpeed=1.58, Score=5
+Frame 607: Cars=12, Status=5 points (Congested), Density=0.07, AvgSpeed=1.57, Score=5
+Frame 608: Cars=12, Status=5 points (Congested), Density=0.07, AvgSpeed=1.56, Score=5
+Frame 609: Cars=12, Status=5 points (Congested), Density=0.07, AvgSpeed=1.56, Score=5
+Frame 610: Cars=12, Status=5 points (Congested), Density=0.07, AvgSpeed=1.56, Score=5
+Frame 611: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.55, Score=5
+Frame 612: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.54, Score=5
+Frame 613: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.53, Score=5
+Frame 614: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.51, Score=5
+Frame 615: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.51, Score=5
+Frame 616: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.51, Score=5
+Frame 617: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.52, Score=5
+Frame 618: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.52, Score=5
+Frame 619: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.50, Score=5
+Frame 620: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.50, Score=5
+Frame 621: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.50, Score=5
+Frame 622: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.48, Score=5
+Frame 623: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.45, Score=5
+Frame 624: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.43, Score=5
+Frame 625: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.42, Score=5
+Frame 626: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.43, Score=5
+Frame 627: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.42, Score=5
+Frame 628: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.43, Score=5
+Frame 629: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.44, Score=5
+Frame 630: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.44, Score=5
+Frame 631: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.43, Score=5
+Frame 632: Cars=13, Status=5 points (Congested), Density=0.07, AvgSpeed=1.45, Score=5
+Frame 633: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.48, Score=5
+Frame 634: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.50, Score=5
+Frame 635: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.52, Score=5
+Frame 636: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.53, Score=5
+Frame 637: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.49, Score=5
+Frame 638: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.50, Score=5
+Frame 639: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.51, Score=5
+Frame 640: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.51, Score=5
+Frame 641: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.51, Score=5
+Frame 642: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.52, Score=5
+Frame 643: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.53, Score=5
+Frame 644: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.53, Score=5
+Frame 645: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.54, Score=5
+Frame 646: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.55, Score=5
+Frame 647: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.56, Score=5
+Frame 648: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.57, Score=5
+Frame 649: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.57, Score=5
+Frame 650: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.58, Score=5
+Frame 651: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.58, Score=5
+Frame 652: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.59, Score=5
+Frame 653: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.60, Score=5
+Frame 654: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.60, Score=5
+Frame 655: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.60, Score=5
+Frame 656: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.61, Score=5
+Frame 657: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.61, Score=5
+Frame 658: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 659: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.64, Score=5
+Frame 660: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.64, Score=5
+Frame 661: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 662: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.60, Score=5
+Frame 663: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.58, Score=5
+Frame 664: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.58, Score=5
+Frame 665: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.61, Score=5
+Frame 666: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 667: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 668: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.62, Score=5
+Frame 669: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 670: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.64, Score=5
+Frame 671: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.66, Score=5
+Frame 672: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.69, Score=5
+Frame 673: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.71, Score=5
+Frame 674: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.72, Score=5
+Frame 675: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.73, Score=5
+Frame 676: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.74, Score=5
+Frame 677: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.76, Score=5
+Frame 678: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.75, Score=5
+Frame 679: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.74, Score=5
+Frame 680: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.74, Score=5
+Frame 681: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.74, Score=5
+Frame 682: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.75, Score=5
+Frame 683: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.75, Score=5
+Frame 684: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.76, Score=5
+Frame 685: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.76, Score=5
+Frame 686: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.76, Score=5
+Frame 687: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.76, Score=5
+Frame 688: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.77, Score=5
+Frame 689: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.78, Score=5
+Frame 690: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.80, Score=5
+Frame 691: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.80, Score=5
+Frame 692: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.80, Score=5
+Frame 693: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.80, Score=5
+Frame 694: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 695: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.83, Score=5
+Frame 696: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.84, Score=5
+Frame 697: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.85, Score=5
+Frame 698: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.84, Score=5
+Frame 699: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.84, Score=5
+Frame 700: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 701: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.79, Score=5
+Frame 702: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.78, Score=5
+Frame 703: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.77, Score=5
+Frame 704: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.77, Score=5
+Frame 705: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.77, Score=5
+Frame 706: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.77, Score=5
+Frame 707: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.77, Score=5
+Frame 708: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.77, Score=5
+Frame 709: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.76, Score=5
+Frame 710: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.77, Score=5
+Frame 711: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.78, Score=5
+Frame 712: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 713: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.85, Score=5
+Frame 714: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.86, Score=5
+Frame 715: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.83, Score=5
+Frame 716: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 717: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 718: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 719: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.83, Score=5
+Frame 720: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.83, Score=5
+Frame 721: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.83, Score=5
+Frame 722: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 723: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.83, Score=5
+Frame 724: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.83, Score=5
+Frame 725: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.83, Score=5
+Frame 726: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.83, Score=5
+Frame 727: Cars=14, Status=5 points (Congested), Density=0.09, AvgSpeed=1.82, Score=5
+Frame 728: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.82, Score=5
+Frame 729: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.81, Score=5
+Frame 730: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.82, Score=5
+Frame 731: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.82, Score=5
+Frame 732: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.82, Score=5
+Frame 733: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.82, Score=5
+Frame 734: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.81, Score=5
+Frame 735: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.80, Score=5
+Frame 736: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.79, Score=5
+Frame 737: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.80, Score=5
+Frame 738: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.80, Score=5
+Frame 739: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.77, Score=5
+Frame 740: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.72, Score=5
+Frame 741: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.69, Score=5
+Frame 742: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.68, Score=5
+Frame 743: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.68, Score=5
+Frame 744: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.67, Score=5
+Frame 745: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.65, Score=5
+Frame 746: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.64, Score=5
+Frame 747: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 748: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 749: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.63, Score=5
+Frame 750: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.66, Score=5
+Frame 751: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.69, Score=5
+Frame 752: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.69, Score=5
+Frame 753: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.70, Score=5
+Frame 754: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.69, Score=5
+Frame 755: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.70, Score=5
+Frame 756: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.70, Score=5
+Frame 757: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.69, Score=5
+Frame 758: Cars=14, Status=5 points (Congested), Density=0.08, AvgSpeed=1.69, Score=5
+Frame 759: Cars=15, Status=5 points (Congested), Density=0.08, AvgSpeed=1.68, Score=5
+Frame 760: Cars=15, Status=5 points (Congested), Density=0.08, AvgSpeed=1.67, Score=5
+Frame 761: Cars=15, Status=5 points (Congested), Density=0.08, AvgSpeed=1.67, Score=5
+Frame 762: Cars=15, Status=5 points (Congested), Density=0.08, AvgSpeed=1.66, Score=5
+Frame 763: Cars=15, Status=5 points (Congested), Density=0.08, AvgSpeed=1.65, Score=5
+Frame 764: Cars=15, Status=5 points (Congested), Density=0.08, AvgSpeed=1.64, Score=5
+Frame 765: Cars=15, Status=5 points (Congested), Density=0.07, AvgSpeed=1.64, Score=5
+Frame 766: Cars=15, Status=5 points (Congested), Density=0.07, AvgSpeed=1.63, Score=5
+Frame 767: Cars=15, Status=5 points (Congested), Density=0.07, AvgSpeed=1.63, Score=5
+Frame 768: Cars=15, Status=5 points (Congested), Density=0.07, AvgSpeed=1.62, Score=5
+Frame 769: Cars=15, Status=5 points (Congested), Density=0.07, AvgSpeed=1.61, Score=5
+Frame 770: Cars=15, Status=5 points (Congested), Density=0.07, AvgSpeed=1.60, Score=5
+Frame 771: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.59, Score=5
+Frame 772: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.58, Score=5
+Frame 773: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.58, Score=5
+Frame 774: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.57, Score=5
+Frame 775: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.56, Score=5
+Frame 776: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.55, Score=5
+Frame 777: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.53, Score=5
+Frame 778: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.51, Score=5
+Frame 779: Cars=14, Status=5 points (Congested), Density=0.07, AvgSpeed=1.48, Score=5
+Frame 780: Cars=15, Status=5 points (Congested), Density=0.07, AvgSpeed=1.46, Score=5
+Frame 781: Cars=15, Status=5 points (Congested), Density=0.07, AvgSpeed=1.44, Score=5
+Frame 782: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.43, Score=6
+Frame 783: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.42, Score=6
+Frame 784: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.41, Score=6
+Frame 785: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.40, Score=6
+Frame 786: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.40, Score=6
+Frame 787: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.39, Score=6
+Frame 788: Cars=14, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.37, Score=6
+Frame 789: Cars=14, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.38, Score=6
+Frame 790: Cars=14, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.39, Score=6
+Frame 791: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.41, Score=5
+Frame 792: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.41, Score=5
+Frame 793: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.40, Score=5
+Frame 794: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.38, Score=5
+Frame 795: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.37, Score=5
+Frame 796: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.37, Score=5
+Frame 797: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.36, Score=5
+Frame 798: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.35, Score=5
+Frame 799: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.34, Score=5
+Frame 800: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.32, Score=5
+Frame 801: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.31, Score=5
+Frame 802: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.30, Score=5
+Frame 803: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.30, Score=5
+Frame 804: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.29, Score=5
+Frame 805: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.29, Score=5
+Frame 806: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.27, Score=5
+Frame 807: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.28, Score=5
+Frame 808: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.27, Score=5
+Frame 809: Cars=14, Status=5 points (Congested), Density=0.06, AvgSpeed=1.28, Score=5
+Frame 810: Cars=14, Status=5 points (Congested), Density=0.05, AvgSpeed=1.27, Score=5
+Frame 811: Cars=14, Status=5 points (Congested), Density=0.05, AvgSpeed=1.26, Score=5
+Frame 812: Cars=14, Status=5 points (Congested), Density=0.05, AvgSpeed=1.26, Score=5
+Frame 813: Cars=14, Status=5 points (Congested), Density=0.05, AvgSpeed=1.25, Score=5
+Frame 814: Cars=14, Status=5 points (Congested), Density=0.05, AvgSpeed=1.25, Score=5
+Frame 815: Cars=14, Status=5 points (Congested), Density=0.05, AvgSpeed=1.25, Score=5
+Frame 816: Cars=14, Status=5 points (Congested), Density=0.05, AvgSpeed=1.25, Score=5
+Frame 817: Cars=14, Status=5 points (Congested), Density=0.05, AvgSpeed=1.23, Score=5
+Frame 818: Cars=14, Status=6 points (Heavy Traffic), Density=0.05, AvgSpeed=1.21, Score=6
+Frame 819: Cars=14, Status=6 points (Heavy Traffic), Density=0.05, AvgSpeed=1.18, Score=6
+Frame 820: Cars=14, Status=6 points (Heavy Traffic), Density=0.05, AvgSpeed=1.19, Score=6
+Frame 821: Cars=14, Status=6 points (Heavy Traffic), Density=0.05, AvgSpeed=1.19, Score=6
+Frame 822: Cars=14, Status=6 points (Heavy Traffic), Density=0.05, AvgSpeed=1.19, Score=6
+Frame 823: Cars=14, Status=6 points (Heavy Traffic), Density=0.05, AvgSpeed=1.19, Score=6
+Frame 824: Cars=14, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.19, Score=6
+Frame 825: Cars=14, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.19, Score=6
+Frame 826: Cars=14, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.19, Score=6
+Frame 827: Cars=14, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.20, Score=6
+Frame 828: Cars=14, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.23, Score=6
+Frame 829: Cars=14, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.26, Score=6
+Frame 830: Cars=14, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.27, Score=6
+Frame 831: Cars=14, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.28, Score=6
+Frame 832: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.28, Score=6
+Frame 833: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.29, Score=6
+Frame 834: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.30, Score=6
+Frame 835: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.30, Score=6
+Frame 836: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.31, Score=6
+Frame 837: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.31, Score=6
+Frame 838: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.32, Score=6
+Frame 839: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.33, Score=6
+Frame 840: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.35, Score=6
+Frame 841: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.36, Score=6
+Frame 842: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.36, Score=6
+Frame 843: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.37, Score=6
+Frame 844: Cars=15, Status=6 points (Heavy Traffic), Density=0.06, AvgSpeed=1.39, Score=6
+Frame 845: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.39, Score=6
+Frame 846: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.40, Score=6
+Frame 847: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.41, Score=6
+Frame 848: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.41, Score=6
+Frame 849: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.41, Score=6
+Frame 850: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.42, Score=6
+Frame 851: Cars=16, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.42, Score=6
+Frame 852: Cars=16, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.43, Score=6
+Frame 853: Cars=16, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.44, Score=6
+Frame 854: Cars=16, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.44, Score=6
+Frame 855: Cars=16, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.45, Score=6
+Frame 856: Cars=16, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.45, Score=6
+Frame 857: Cars=16, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.42, Score=6
+Frame 858: Cars=16, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.40, Score=6
+Frame 859: Cars=16, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.39, Score=6
+Frame 860: Cars=16, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.40, Score=6
+Frame 861: Cars=16, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.40, Score=6
+Frame 862: Cars=16, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=1.41, Score=6
+Frame 863: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.41, Score=6
+Frame 864: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.41, Score=6
+Frame 865: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.42, Score=6
+Frame 866: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.42, Score=6
+Frame 867: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.43, Score=6
+Frame 868: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.46, Score=6
+Frame 869: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.48, Score=6
+Frame 870: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.48, Score=6
+Frame 871: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.49, Score=6
+Frame 872: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.49, Score=6
+Frame 873: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.50, Score=6
+Frame 874: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.50, Score=6
+Frame 875: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.50, Score=6
+Frame 876: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.51, Score=6
+Frame 877: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.51, Score=6
+Frame 878: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.50, Score=6
+Frame 879: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.50, Score=6
+Frame 880: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.50, Score=6
+Frame 881: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.50, Score=6
+Frame 882: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.51, Score=6
+Frame 883: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.51, Score=6
+Frame 884: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.51, Score=6
+Frame 885: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.52, Score=6
+Frame 886: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.52, Score=6
+Frame 887: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.52, Score=6
+Frame 888: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.53, Score=6
+Frame 889: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.52, Score=6
+Frame 890: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.52, Score=6
+Frame 891: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.53, Score=6
+Frame 892: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.53, Score=6
+Frame 893: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.53, Score=6
+Frame 894: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.53, Score=6
+Frame 895: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.53, Score=6
+Frame 896: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.51, Score=6
+Frame 897: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.49, Score=6
+Frame 898: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.46, Score=6
+Frame 899: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.46, Score=6
+Frame 900: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.46, Score=6
+Frame 901: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.50, Score=6
+Frame 902: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.51, Score=6
+Frame 903: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.52, Score=6
+Frame 904: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.52, Score=6
+Frame 905: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.52, Score=6
+Frame 906: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.53, Score=6
+Frame 907: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.55, Score=6
+Frame 908: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.59, Score=6
+Frame 909: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.60, Score=6
+Frame 910: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.60, Score=6
+Frame 911: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.61, Score=6
+Frame 912: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.62, Score=6
+Frame 913: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.62, Score=6
+Frame 914: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.62, Score=6
+Frame 915: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.62, Score=6
+Frame 916: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.63, Score=6
+Frame 917: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.64, Score=6
+Frame 918: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.65, Score=6
+Frame 919: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.66, Score=6
+Frame 920: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.66, Score=6
+Frame 921: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.67, Score=6
+Frame 922: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.67, Score=6
+Frame 923: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.66, Score=6
+Frame 924: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.67, Score=6
+Frame 925: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.67, Score=6
+Frame 926: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.67, Score=6
+Frame 927: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.67, Score=6
+Frame 928: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.67, Score=6
+Frame 929: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.67, Score=6
+Frame 930: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.68, Score=6
+Frame 931: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.68, Score=6
+Frame 932: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.68, Score=6
+Frame 933: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.69, Score=6
+Frame 934: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.69, Score=6
+Frame 935: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.66, Score=6
+Frame 936: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.62, Score=6
+Frame 937: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.62, Score=6
+Frame 938: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.61, Score=6
+Frame 939: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.61, Score=6
+Frame 940: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.60, Score=6
+Frame 941: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.60, Score=6
+Frame 942: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.60, Score=6
+Frame 943: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.61, Score=6
+Frame 944: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.60, Score=6
+Frame 945: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.60, Score=6
+Frame 946: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.61, Score=6
+Frame 947: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.63, Score=6
+Frame 948: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.66, Score=6
+Frame 949: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.67, Score=6
+Frame 950: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.67, Score=6
+Frame 951: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.63, Score=6
+Frame 952: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.61, Score=6
+Frame 953: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.60, Score=6
+Frame 954: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.59, Score=6
+Frame 955: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.59, Score=6
+Frame 956: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.58, Score=6
+Frame 957: Cars=16, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.58, Score=6
+Frame 958: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.57, Score=6
+Frame 959: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.56, Score=6
+Frame 960: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.55, Score=6
+Frame 961: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.54, Score=6
+Frame 962: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.52, Score=6
+Frame 963: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.51, Score=6
+Frame 964: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.50, Score=6
+Frame 965: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.49, Score=6
+Frame 966: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.47, Score=6
+Frame 967: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.47, Score=6
+Frame 968: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.45, Score=6
+Frame 969: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.44, Score=6
+Frame 970: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.42, Score=6
+Frame 971: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.40, Score=6
+Frame 972: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.39, Score=6
+Frame 973: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.39, Score=6
+Frame 974: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.37, Score=6
+Frame 975: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.34, Score=6
+Frame 976: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.31, Score=6
+Frame 977: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.30, Score=6
+Frame 978: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.29, Score=6
+Frame 979: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.28, Score=6
+Frame 980: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.26, Score=6
+Frame 981: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.24, Score=6
+Frame 982: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.22, Score=6
+Frame 983: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.20, Score=6
+Frame 984: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.19, Score=6
+Frame 985: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.19, Score=6
+Frame 986: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.21, Score=6
+Frame 987: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.20, Score=6
+Frame 988: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.18, Score=6
+Frame 989: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.17, Score=6
+Frame 990: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.16, Score=6
+Frame 991: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.14, Score=6
+Frame 992: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.12, Score=6
+Frame 993: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.10, Score=6
+Frame 994: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.08, Score=6
+Frame 995: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.07, Score=6
+Frame 996: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.06, Score=6
+Frame 997: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.04, Score=6
+Frame 998: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.03, Score=6
+Frame 999: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.01, Score=6
+Frame 1000: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.99, Score=6
+Frame 1001: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.98, Score=6
+Frame 1002: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.97, Score=6
+Frame 1003: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.96, Score=6
+Frame 1004: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1005: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.92, Score=6
+Frame 1006: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.91, Score=6
+Frame 1007: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.90, Score=6
+Frame 1008: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.88, Score=6
+Frame 1009: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.87, Score=6
+Frame 1010: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.87, Score=6
+Frame 1011: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.86, Score=6
+Frame 1012: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.85, Score=6
+Frame 1013: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.83, Score=6
+Frame 1014: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.81, Score=6
+Frame 1015: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.80, Score=6
+Frame 1016: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.79, Score=6
+Frame 1017: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.78, Score=6
+Frame 1018: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.77, Score=6
+Frame 1019: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.77, Score=6
+Frame 1020: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.76, Score=6
+Frame 1021: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.76, Score=6
+Frame 1022: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.75, Score=6
+Frame 1023: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.75, Score=6
+Frame 1024: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.75, Score=6
+Frame 1025: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.77, Score=6
+Frame 1026: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.79, Score=6
+Frame 1027: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.79, Score=6
+Frame 1028: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.79, Score=6
+Frame 1029: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.78, Score=6
+Frame 1030: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.79, Score=6
+Frame 1031: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.79, Score=6
+Frame 1032: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.79, Score=6
+Frame 1033: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.79, Score=6
+Frame 1034: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.79, Score=6
+Frame 1035: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.79, Score=6
+Frame 1036: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.80, Score=6
+Frame 1037: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.80, Score=6
+Frame 1038: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.80, Score=6
+Frame 1039: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.80, Score=6
+Frame 1040: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.80, Score=6
+Frame 1041: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.80, Score=6
+Frame 1042: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.80, Score=6
+Frame 1043: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.81, Score=6
+Frame 1044: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.81, Score=6
+Frame 1045: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.81, Score=6
+Frame 1046: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.81, Score=6
+Frame 1047: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.82, Score=6
+Frame 1048: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.82, Score=6
+Frame 1049: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.82, Score=6
+Frame 1050: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.83, Score=6
+Frame 1051: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.83, Score=6
+Frame 1052: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.83, Score=6
+Frame 1053: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.82, Score=6
+Frame 1054: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.81, Score=6
+Frame 1055: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.81, Score=6
+Frame 1056: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.82, Score=6
+Frame 1057: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.82, Score=6
+Frame 1058: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.83, Score=6
+Frame 1059: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.83, Score=6
+Frame 1060: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.83, Score=6
+Frame 1061: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.83, Score=6
+Frame 1062: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.84, Score=6
+Frame 1063: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.86, Score=6
+Frame 1064: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.87, Score=6
+Frame 1065: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.87, Score=6
+Frame 1066: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.88, Score=6
+Frame 1067: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.87, Score=6
+Frame 1068: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.87, Score=6
+Frame 1069: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.87, Score=6
+Frame 1070: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.87, Score=6
+Frame 1071: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.86, Score=6
+Frame 1072: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.86, Score=6
+Frame 1073: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.86, Score=6
+Frame 1074: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.86, Score=6
+Frame 1075: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.85, Score=6
+Frame 1076: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.84, Score=6
+Frame 1077: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.84, Score=6
+Frame 1078: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.84, Score=6
+Frame 1079: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.83, Score=6
+Frame 1080: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.83, Score=6
+Frame 1081: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.83, Score=6
+Frame 1082: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.82, Score=6
+Frame 1083: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.82, Score=6
+Frame 1084: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.82, Score=6
+Frame 1085: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.81, Score=6
+Frame 1086: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.81, Score=6
+Frame 1087: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.81, Score=6
+Frame 1088: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.81, Score=6
+Frame 1089: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.81, Score=6
+Frame 1090: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.80, Score=6
+Frame 1091: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.78, Score=6
+Frame 1092: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.77, Score=6
+Frame 1093: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.78, Score=6
+Frame 1094: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.78, Score=6
+Frame 1095: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.78, Score=6
+Frame 1096: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.77, Score=6
+Frame 1097: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.77, Score=6
+Frame 1098: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.77, Score=6
+Frame 1099: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.77, Score=6
+Frame 1100: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.76, Score=6
+Frame 1101: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.76, Score=6
+Frame 1102: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.77, Score=6
+Frame 1103: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.78, Score=6
+Frame 1104: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.78, Score=6
+Frame 1105: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.78, Score=6
+Frame 1106: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.78, Score=6
+Frame 1107: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.78, Score=6
+Frame 1108: Cars=16, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.78, Score=6
+Frame 1109: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.77, Score=6
+Frame 1110: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.77, Score=6
+Frame 1111: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.76, Score=6
+Frame 1112: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.76, Score=6
+Frame 1113: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.76, Score=6
+Frame 1114: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.75, Score=6
+Frame 1115: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.75, Score=6
+Frame 1116: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.75, Score=6
+Frame 1117: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.75, Score=6
+Frame 1118: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.75, Score=6
+Frame 1119: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.74, Score=6
+Frame 1120: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.74, Score=6
+Frame 1121: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.74, Score=6
+Frame 1122: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.73, Score=6
+Frame 1123: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.73, Score=6
+Frame 1124: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.72, Score=6
+Frame 1125: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.72, Score=6
+Frame 1126: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.71, Score=6
+Frame 1127: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.70, Score=6
+Frame 1128: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.70, Score=6
+Frame 1129: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.70, Score=6
+Frame 1130: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.69, Score=6
+Frame 1131: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.67, Score=6
+Frame 1132: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.67, Score=6
+Frame 1133: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.66, Score=6
+Frame 1134: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.66, Score=6
+Frame 1135: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.65, Score=6
+Frame 1136: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.65, Score=6
+Frame 1137: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.64, Score=6
+Frame 1138: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.63, Score=6
+Frame 1139: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.63, Score=6
+Frame 1140: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.63, Score=6
+Frame 1141: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.66, Score=6
+Frame 1142: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.67, Score=6
+Frame 1143: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.66, Score=6
+Frame 1144: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.65, Score=6
+Frame 1145: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.65, Score=6
+Frame 1146: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.65, Score=6
+Frame 1147: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.65, Score=6
+Frame 1148: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.65, Score=6
+Frame 1149: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.65, Score=6
+Frame 1150: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.65, Score=6
+Frame 1151: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.65, Score=6
+Frame 1152: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.65, Score=6
+Frame 1153: Cars=14, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.65, Score=6
+Frame 1154: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.66, Score=6
+Frame 1155: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.66, Score=6
+Frame 1156: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.66, Score=6
+Frame 1157: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.66, Score=6
+Frame 1158: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.66, Score=6
+Frame 1159: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.66, Score=6
+Frame 1160: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.67, Score=6
+Frame 1161: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.67, Score=6
+Frame 1162: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.67, Score=6
+Frame 1163: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.68, Score=6
+Frame 1164: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.69, Score=6
+Frame 1165: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.70, Score=6
+Frame 1166: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.71, Score=6
+Frame 1167: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.72, Score=6
+Frame 1168: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.72, Score=6
+Frame 1169: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.73, Score=6
+Frame 1170: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.72, Score=6
+Frame 1171: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.72, Score=6
+Frame 1172: Cars=15, Status=6 points (Heavy Traffic), Density=0.07, AvgSpeed=0.72, Score=6
+Frame 1173: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.72, Score=6
+Frame 1174: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.74, Score=6
+Frame 1175: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.76, Score=6
+Frame 1176: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.77, Score=6
+Frame 1177: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.79, Score=6
+Frame 1178: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.79, Score=6
+Frame 1179: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.81, Score=6
+Frame 1180: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.83, Score=6
+Frame 1181: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.85, Score=6
+Frame 1182: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.86, Score=6
+Frame 1183: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.88, Score=6
+Frame 1184: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.89, Score=6
+Frame 1185: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.90, Score=6
+Frame 1186: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.91, Score=6
+Frame 1187: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.92, Score=6
+Frame 1188: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 1189: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 1190: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1191: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 1192: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1193: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.95, Score=6
+Frame 1194: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.96, Score=6
+Frame 1195: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.97, Score=6
+Frame 1196: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.97, Score=6
+Frame 1197: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.97, Score=6
+Frame 1198: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.98, Score=6
+Frame 1199: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.98, Score=6
+Frame 1200: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.98, Score=6
+Frame 1201: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.99, Score=6
+Frame 1202: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.99, Score=6
+Frame 1203: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.99, Score=6
+Frame 1204: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.99, Score=6
+Frame 1205: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.00, Score=6
+Frame 1206: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.01, Score=6
+Frame 1207: Cars=15, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.02, Score=6
+Frame 1208: Cars=15, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.01, Score=6
+Frame 1209: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.00, Score=6
+Frame 1210: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1211: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1212: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1213: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1214: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1215: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1216: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1217: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1218: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1219: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1220: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1221: Cars=16, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.01, Score=6
+Frame 1222: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.01, Score=6
+Frame 1223: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.02, Score=6
+Frame 1224: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.01, Score=6
+Frame 1225: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.01, Score=6
+Frame 1226: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.01, Score=6
+Frame 1227: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.00, Score=6
+Frame 1228: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.00, Score=6
+Frame 1229: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1230: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1231: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1232: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1233: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1234: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1235: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1236: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.97, Score=6
+Frame 1237: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1238: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1239: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1240: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.97, Score=6
+Frame 1241: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1242: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1243: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1244: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1245: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.97, Score=6
+Frame 1246: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.98, Score=6
+Frame 1247: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.98, Score=6
+Frame 1248: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.96, Score=6
+Frame 1249: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1250: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1251: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.95, Score=6
+Frame 1252: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.95, Score=6
+Frame 1253: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.95, Score=6
+Frame 1254: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.95, Score=6
+Frame 1255: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1256: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1257: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 1258: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1259: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.96, Score=6
+Frame 1260: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.96, Score=6
+Frame 1261: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.97, Score=6
+Frame 1262: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.97, Score=6
+Frame 1263: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.97, Score=6
+Frame 1264: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.96, Score=6
+Frame 1265: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.95, Score=6
+Frame 1266: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1267: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1268: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1269: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 1270: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 1271: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.92, Score=6
+Frame 1272: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.92, Score=6
+Frame 1273: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.92, Score=6
+Frame 1274: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.91, Score=6
+Frame 1275: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.90, Score=6
+Frame 1276: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.92, Score=6
+Frame 1277: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.92, Score=6
+Frame 1278: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.92, Score=6
+Frame 1279: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.91, Score=6
+Frame 1280: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.91, Score=6
+Frame 1281: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.91, Score=6
+Frame 1282: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.91, Score=6
+Frame 1283: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.95, Score=6
+Frame 1284: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.95, Score=6
+Frame 1285: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.95, Score=6
+Frame 1286: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.95, Score=6
+Frame 1287: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 1288: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.92, Score=6
+Frame 1289: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.92, Score=6
+Frame 1290: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.91, Score=6
+Frame 1291: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.90, Score=6
+Frame 1292: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.90, Score=6
+Frame 1293: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 1294: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 1295: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1296: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.93, Score=6
+Frame 1297: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.94, Score=6
+Frame 1298: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.96, Score=6
+Frame 1299: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.00, Score=6
+Frame 1300: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.01, Score=6
+Frame 1301: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.00, Score=6
+Frame 1302: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.04, Score=6
+Frame 1303: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.04, Score=6
+Frame 1304: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.05, Score=6
+Frame 1305: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.06, Score=6
+Frame 1306: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=1.07, Score=6
+Frame 1307: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.07, Score=6
+Frame 1308: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.07, Score=6
+Frame 1309: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.09, Score=6
+Frame 1310: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.10, Score=6
+Frame 1311: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.10, Score=6
+Frame 1312: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.11, Score=6
+Frame 1313: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.12, Score=6
+Frame 1314: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.13, Score=6
+Frame 1315: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.13, Score=6
+Frame 1316: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.16, Score=6
+Frame 1317: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.17, Score=6
+Frame 1318: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.18, Score=6
+Frame 1319: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.19, Score=6
+Frame 1320: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.21, Score=6
+Frame 1321: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.21, Score=6
+Frame 1322: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.22, Score=6
+Frame 1323: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.22, Score=6
+Frame 1324: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.22, Score=6
+Frame 1325: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.22, Score=6
+Frame 1326: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.19, Score=6
+Frame 1327: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.18, Score=6
+Frame 1328: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.18, Score=6
+Frame 1329: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.18, Score=6
+Frame 1330: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.18, Score=6
+Frame 1331: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.18, Score=6
+Frame 1332: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.19, Score=6
+Frame 1333: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.15, Score=6
+Frame 1334: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.15, Score=6
+Frame 1335: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.16, Score=6
+Frame 1336: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.18, Score=6
+Frame 1337: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.20, Score=6
+Frame 1338: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.21, Score=6
+Frame 1339: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.21, Score=6
+Frame 1340: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.22, Score=6
+Frame 1341: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.22, Score=6
+Frame 1342: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.22, Score=6
+Frame 1343: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.21, Score=6
+Frame 1344: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.22, Score=6
+Frame 1345: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.21, Score=6
+Frame 1346: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.21, Score=6
+Frame 1347: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.21, Score=6
+Frame 1348: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.22, Score=6
+Frame 1349: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.19, Score=6
+Frame 1350: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.19, Score=6
+Frame 1351: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.18, Score=6
+Frame 1352: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.16, Score=6
+Frame 1353: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.17, Score=6
+Frame 1354: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.16, Score=6
+Frame 1355: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.16, Score=6
+Frame 1356: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.15, Score=6
+Frame 1357: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.15, Score=6
+Frame 1358: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.15, Score=6
+Frame 1359: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.14, Score=6
+Frame 1360: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.13, Score=6
+Frame 1361: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.11, Score=6
+Frame 1362: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.11, Score=6
+Frame 1363: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.09, Score=6
+Frame 1364: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.10, Score=6
+Frame 1365: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.09, Score=6
+Frame 1366: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.05, Score=6
+Frame 1367: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.03, Score=6
+Frame 1368: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.02, Score=6
+Frame 1369: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.01, Score=6
+Frame 1370: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.00, Score=6
+Frame 1371: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.00, Score=6
+Frame 1372: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.00, Score=6
+Frame 1373: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.00, Score=6
+Frame 1374: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.01, Score=6
+Frame 1375: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.02, Score=6
+Frame 1376: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.02, Score=6
+Frame 1377: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.04, Score=6
+Frame 1378: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.05, Score=6
+Frame 1379: Cars=18, Status=6 points (Heavy Traffic), Density=0.10, AvgSpeed=1.04, Score=6
+Frame 1380: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.04, Score=6
+Frame 1381: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.04, Score=6
+Frame 1382: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.03, Score=6
+Frame 1383: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.03, Score=6
+Frame 1384: Cars=18, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.02, Score=6
+Frame 1385: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.01, Score=6
+Frame 1386: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=1.00, Score=6
+Frame 1387: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1388: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.99, Score=6
+Frame 1389: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1390: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1391: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1392: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.98, Score=6
+Frame 1393: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.96, Score=6
+Frame 1394: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.95, Score=6
+Frame 1395: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.94, Score=6
+Frame 1396: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.94, Score=6
+Frame 1397: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.92, Score=6
+Frame 1398: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.91, Score=6
+Frame 1399: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.91, Score=6
+Frame 1400: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.91, Score=6
+Frame 1401: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.91, Score=6
+Frame 1402: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.90, Score=6
+Frame 1403: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.89, Score=6
+Frame 1404: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.88, Score=6
+Frame 1405: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.87, Score=6
+Frame 1406: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.85, Score=6
+Frame 1407: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.84, Score=6
+Frame 1408: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.84, Score=6
+Frame 1409: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.83, Score=6
+Frame 1410: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.83, Score=6
+Frame 1411: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.83, Score=6
+Frame 1412: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.82, Score=6
+Frame 1413: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.82, Score=6
+Frame 1414: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.81, Score=6
+Frame 1415: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.82, Score=6
+Frame 1416: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.84, Score=6
+Frame 1417: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.85, Score=6
+Frame 1418: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.85, Score=6
+Frame 1419: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.85, Score=6
+Frame 1420: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.85, Score=6
+Frame 1421: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.84, Score=6
+Frame 1422: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.83, Score=6
+Frame 1423: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.83, Score=6
+Frame 1424: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.82, Score=6
+Frame 1425: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.82, Score=6
+Frame 1426: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.82, Score=6
+Frame 1427: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.82, Score=6
+Frame 1428: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.81, Score=6
+Frame 1429: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.82, Score=6
+Frame 1430: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.82, Score=6
+Frame 1431: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.82, Score=6
+Frame 1432: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.81, Score=6
+Frame 1433: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.82, Score=6
+Frame 1434: Cars=17, Status=6 points (Heavy Traffic), Density=0.08, AvgSpeed=0.83, Score=6
+Frame 1435: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.84, Score=6
+Frame 1436: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.84, Score=6
+Frame 1437: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.84, Score=6
+Frame 1438: Cars=17, Status=6 points (Heavy Traffic), Density=0.09, AvgSpeed=0.84, Score=6
