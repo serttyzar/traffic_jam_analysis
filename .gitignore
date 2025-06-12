@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+output/*
+output/test_video_*.mp4
+
+data/sample_images/*
+
+venv/
+.env
+*.env
+
+.DS_Store
+*.log
